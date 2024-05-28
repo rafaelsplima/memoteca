@@ -24,9 +24,6 @@ export class ExcluirPensamentoComponent implements OnInit {
 
   ngOnInit(): void {
     const id = this.route.snapshot.paramMap.get('id');
-    console.log('-- PARÂMETROS DA ROTA:');
-    console.log(this.route.snapshot);
-    console.log('-----------------------');
     this.service.buscarPorId(parseInt(id!)).subscribe((pensamento) => {
       this.pensamento = pensamento;
     });

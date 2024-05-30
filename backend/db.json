@@ -11,7 +11,7 @@
       "conteudo": "Força esteja com você    ",
       "autoria": "you",
       "modelo": "modelo3",
-      "favorito": false,
+      "favorito": true,
       "id": 2
     },
     {
@@ -46,7 +46,7 @@
       "conteudo": "sauushauhsuahsuahsuhasuhaushuahsuahsuhaushaushuahsuahsuahsuahsuahsuahsuhaushaushauhsuahsuahsuahsuahsuahsuahsuahsuahsuahsuahsuhaushauhsusauushauhsuahsuahsuhasuhaushuahsuahsuhaushaushuahsuahsuahsuahsuahsuahsuhaushaushauhsuahsuahsuahsuahsuahsuahsuahsuahsuahsuahsuhaushauhsuahsuahushausuahUHAUhuahUHAUhauHAUHuahUHAUhauHAUHuahUHAUa",
       "autoria": "Autoria",
       "modelo": "modelo2",
-      "favorito": true,
+      "favorito": false,
       "id": 8
     }
   ]
